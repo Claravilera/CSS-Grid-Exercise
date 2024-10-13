@@ -2,13 +2,7 @@ body, html {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-}
-
-.divlogo {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}       
+}      
 
 .parent {
     display: grid;
@@ -109,3 +103,4 @@ img {
     grid-column: 3 / 5;  
     grid-row: 4;
 }
+
